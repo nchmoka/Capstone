@@ -1,0 +1,4 @@
+The repositories links:
+
+Frontend - https://github.com/nchmoka/Strep-Throat-Detection-Frontend
+Backend - https://github.com/nchmoka/Strep-Throat-Detection-Backend
